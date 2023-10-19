@@ -80,6 +80,7 @@
   
   main h2 {
     margin-top: -2%;
+    margin-bottom: 1%;
   }
 
   li a {
@@ -1978,6 +1979,9 @@
   }
   
   .form-group {
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
     margin-bottom: 1rem;
   }
 
@@ -2369,13 +2373,13 @@
   }
   
   .btn-primary {
-    width: 48%;
+    width: 25%;
     color: #fff;
     background-color: #20d400;
     border-color: #2eae00;
-    margin-top: 1%;
-    margin-bottom: 3%;
-    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 5%;
+    margin-left: 25%;
   }
   
   .btn-primary:hover {
@@ -2393,13 +2397,13 @@
   }
 
   .btn-primary0 {
-    width: 48%;
+    width: 24%;
     color: #fff;
     background-color: #c10000;
     border-color: #ac0000d6;
-    margin-top: 1%;
-    margin-bottom: 3%;
-    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 5%;
+    margin-left: 0.5%;
   }
   
   .btn-primary0:hover {
@@ -4580,7 +4584,7 @@
   }
   
   .card-img-top {
-    width: 90%;
+    width: 91%;
     border-radius: 10%;
   }
 
@@ -4600,6 +4604,11 @@
 
   .card-img-top3 {
     width: 95%;
+    border-radius: 10%;
+  }
+
+  .card-img-top4 {
+    width: 100%;
     border-radius: 10%;
   }
   
